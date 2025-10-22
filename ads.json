@@ -13,6 +13,9 @@
             "openid-connect"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "co.acme.password": {}
+        },
+        "name": "user-pass-tutorial"
     }
 }
