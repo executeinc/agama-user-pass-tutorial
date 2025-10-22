@@ -14,7 +14,8 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "co.acme.password": {}
+            "co.acme.password": {},
+            "code": {}
         },
         "name": "user-pass-tutorial"
     }
