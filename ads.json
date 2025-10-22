@@ -1,1 +1,18 @@
-{}
+{
+    "user-pass-tutorial": {
+        "projectName": "user-pass-tutorial",
+        "description": "user password tutorial",
+        "type": "community",
+        "author": "executeinc",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/executeinc/agama-user-pass-tutorial",
+        "githubUri": "https://github.com/executeinc/agama-user-pass-tutorial",
+        "license": "apache-2.0",
+        "lastUpdated": "1761145854385",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
